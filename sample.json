@@ -1,0 +1,15 @@
+{
+    "first name": "John",
+    "last name": "Wick",
+    "age": 27,
+    "hobbies":[
+        "Hiking",
+        "Surfing",
+        "Kayaking"
+    ],
+    "address": {
+        "number": "619",
+        "city": "Compton",
+        "state": "California"
+    }
+}
